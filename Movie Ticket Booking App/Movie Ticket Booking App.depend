@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1661104578 source:c:\sca c lang project\movie ticket booking app\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1661104577 c:\sca c lang project\movie ticket booking app\conio2.h
+	<conio.h>
+	<windows.h>
+
+1661280739 source:c:\sca c lang project\movie ticket booking app\main.c
+	<stdio.h>
+	"conio2.h"
+	<stdlib.h>
+	<error.h>
+	<dir.h>
+	"mtb.h"
+
+1661281157 c:\sca c lang project\movie ticket booking app\mtb.h
+	<time.h>
+
+1661282523 source:c:\sca c lang project\movie ticket booking app\mtb.c
+	<ctype.h>
+	<string.h>
+	"conio2.h"
+	<stdio.h>
+	<stdlib.h>
+	"mtb.h"
+
